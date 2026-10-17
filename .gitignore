@@ -1,0 +1,14 @@
+.idea
+*.iws
+*.iml
+*.ipr
+
+cmake-build-debug/
+cmake-build-release/
+build/
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.shelf/
